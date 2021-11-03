@@ -1,10 +1,15 @@
 👋 Hi, I’m @ShiftyGaming 👋
+
 Learning Software Developer and 3D Eviroment Artist
 
 Developing languages I know: HTML, CSS, Javascript, C#, Lua
 
-I am working on: Blender, 3DS Max
-I want to learn: Java, C++ 
+
+Learning:
+Java, Python, Blender, 3DS Max
+
+I want to learn: 
+C++ 
 
 Check me out on discord: Shifty#9502
 
