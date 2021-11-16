@@ -3,13 +3,13 @@
 Learning Software Developer and 3D Eviroment Artist
 
 Developing languages I know: HTML, CSS, Javascript, C#, Lua, Python
+
 Software I use: Blender, 3DS Max
 
-Learning:
-Java
 
-I want to learn: 
-C++ 
+Learning: Java
+
+I want to learn: C++ 
 
 Check me out on discord: Shifty#9502
 
