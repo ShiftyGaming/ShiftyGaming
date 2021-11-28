@@ -1,8 +1,8 @@
 👋 Hi, I’m @ShiftyGaming 👋
 
-Learning Software Developer and 3D Eviroment Artist
+Software & Game Developer and 3D Eviroment Artist
 
-Developing languages I know: HTML, CSS, Javascript, C#, Lua, Python
+Developing languages I know: HTML, CSS, Javascript, PHP, C#, Lua, Python
 
 Software I use: Blender, 3DS Max
 
