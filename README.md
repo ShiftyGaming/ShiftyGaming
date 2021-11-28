@@ -1,19 +1,25 @@
-👋 Hi, I’m @ShiftyGaming 👋
+# <a href="https://github.com/ShiftyGaming">Shifty Coding</a>
 
-Software & Game Developer and 3D Eviroment Artist
+Hi I'm Shifty, A Dutch Student in Software & Games. I love coding and make people smile with my creations!
 
-Developing languages I know: HTML, CSS, Javascript, PHP, C#, Lua, Python
+**About me**
 
-Software I use: Blender, 3DS Max
+- 💼 Software & Game Developer
 
+- 📈 Built my own website for my company.
 
-Learning: Java
+- ❤️ I love coding for Websites & Games!
 
-I want to learn: C++ 
+- 💬 Ask me about anything [here](https://github.com/shiftygaming/shiftygaming/issues)
 
-Check me out on discord: Shifty#9502
+**Languages and Tools:**  
 
-<!---
-ShiftyGaming/ShiftyGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> 
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiftygaming&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiftygaming&layout=compact&theme=dark&hide_border=true" /></a> 
+|
