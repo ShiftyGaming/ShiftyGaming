@@ -5,9 +5,7 @@ Hi I'm Shifty, A Dutch Student in Software & Games. I love coding and make peopl
 **About me**
 
 - 💼 Software & Game Developer
-- 
 - ❤️ I love coding for Websites & Games!
-- 
 - 📈 Building Games with awesome colleagues!
 
 - 💬 Ask me about anything [here](https://github.com/shiftygaming/shiftygaming/issues)
